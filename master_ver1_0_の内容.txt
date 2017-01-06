@@ -1,2 +1,5 @@
 master ver1.0 の内容
-
+master ver1.0 の内容不要部削除
+master ver1.0 の内容変更
+master ver2.0 の内容追加
+ 
